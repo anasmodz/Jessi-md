@@ -4,13 +4,14 @@ import { watchFile, unwatchFile, readFileSync } from 'fs'
 
 global.owner = 
  [
-  ['+94779529221', 'Mr.White Shadow', true]
+  ['+967715686138', '˹🇾🇪⃟⋆ᴀͩɴͤᴀͮs͛ ⃪ᴍᷧᴏͩᴅͤsᷞ⋆⃟🇾🇪˺⃪', true]
+  ['+967715686047', 'ᴀɴᴀs ᴍᴏᴅs', true]
 ]
 // Put your number here
 // [number, he creator/owner?, he developer?]
 
-global.mods = [] // Want some help?
-global.prems = [] // Premium user has unlimited limit
+global.mods = ['967715686138', '967715686047'] // Want some help?
+global.prems = ['967715686138', '967715686047'] // Premium user has unlimited limit
 
 // api key here okay
 global.xyro = 'LyrK9JMI7N' // https://api.xyroinee.xyz free limit unlimited
@@ -61,16 +62,16 @@ global.APIKeys = { // APIKey Here
 ]
 
 // Sticker WM
-global.packname = `「 Cʀᴇᴀᴛᴇᴅ Bʏ ᴍʀ.ᴡʜɪᴛᴇ ꜱʜᴀᴅᴏᴡ 」`
-global.author = ''
+global.packname = `「 Cʀᴇᴀᴛᴇᴅ ʙʏ : ᴀɴᴀs ᴍᴏᴅs」`
+global.author = '˹🇾🇪⃟⋆ᴀͩɴͤᴀͮs͛ ⃪ᴍᷧᴏͩᴅͤsᷞ⋆⃟🇾🇪˺⃪'
 global.thumb = readFileSync('./me.png')
 global.thumb2 = readFileSync('./me2.jpeg')
 global.multiplier = 69 // The higher, The harder levelup
 
 //Text here
-global.me = 'Cʀᴇᴀᴛᴇᴅ Bʏ ᴍʀ.ᴡʜɪᴛᴇ ꜱʜᴀᴅᴏᴡ - 2023'
-global.bott = 'Jessi-md'
-global.nomorown = '94779529221'
+global.me = 'Cʀᴇᴀᴛᴇᴅ Bʏ まᴀɴᴀs ᴍᴏᴅs - 2023'
+global.bott = 'Yato Bot ♥'
+global.nomorown = '967715686138'
 // owner put this creator.js
 global.str = '-------------'
 global.l = '「'
